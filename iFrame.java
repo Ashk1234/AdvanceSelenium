@@ -9,7 +9,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class iFrame {
-
+public void method()
+{
+	
+}
 	public static void main(String[] args) throws Exception {
 		   System.setProperty("webdriver.chrome.driver", "C:\\Users\\ashk1234\\Desktop\\Framework\\jar\\chromedriver.exe");
 	       WebDriver driver=new ChromeDriver();
